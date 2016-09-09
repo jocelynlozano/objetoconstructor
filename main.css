@@ -1,0 +1,28 @@
+.inserte {
+	text-align: center;
+	color: #F7819F;
+	font-family: 'Oswald', sans-serif;
+}
+
+.colorfondoboton {
+	text-align: center;
+	background-color: #6A0888;
+	color: #F7819F;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 1em;
+}
+
+.centrado {
+	text-align: center;
+	margin: 20%;
+	font-size: 2em;
+}
+
+.text {
+	font-size: 0.5em;
+}
+
+body {
+	background-color: #6A0888 ;
+	position: cover;
+}
